@@ -1,4 +1,4 @@
-## ***Hello, Happy World!***
+## ***Hello, Happy world!***
 
 ### Yunsu Noh: a.k.a. @yoonsoln or 七海瑞希.
 
