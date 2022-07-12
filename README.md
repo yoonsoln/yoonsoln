@@ -9,6 +9,7 @@ I'm Yunsu Noh, sophomore at Kwangwoon University. I just started learning progra
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonsoln)](https://github.com/yoonsoln)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:02.yunsu.noh@gmail.com)](mailto:02.yunsu.noh@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010957418627)](https://www.facebook.com/profile.php?id=100010957418627/)
+[![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCINtBUOljirjvV6hu9hOIpg?style=social)](https://www.youtube.com/channel/UCINtBUOljirjvV6hu9hOIpg)
 
 [![yoonsoln's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonsoln&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
