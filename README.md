@@ -14,8 +14,6 @@ I'm Yunsu Noh, sophomore at Kwangwoon University. I just started learning progra
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonsoln&layout=compact&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![yoonsoln's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yoonsoln)
-
 ### 🔭 I’m currently working on
  - [**KSOP**](http://outreach.kaist.ac.kr/) Agent (Mar 2021 ~ Present)
  - [**KSOP**](http://outreach.kaist.ac.kr/) Mentee (Jul 2015 ~ Feb 2021)
@@ -23,6 +21,8 @@ I'm Yunsu Noh, sophomore at Kwangwoon University. I just started learning progra
 ### 🌱 I’m currently learning
  - Languages: Modern C++, Java
  - Topics: Web services, Server maintenance
+
+![yoonsoln's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yoonsoln)
 
 <!--
 **yoonsoln/yoonsoln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
