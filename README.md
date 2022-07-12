@@ -12,7 +12,7 @@ I'm Yunsu Noh, sophomore at Kwangwoon University. I just started learning progra
 
 [![yoonsoln's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonsoln&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonsoln&layout=compact&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonsoln&layout=compact&theme=rose_pine&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔭 I’m currently working on
  - [**KSOP**](http://outreach.kaist.ac.kr/) Agent (Mar 2021 ~ Present)
