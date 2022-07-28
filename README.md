@@ -2,7 +2,7 @@
 
 ### Yunsu Noh: a.k.a. @yoonsoln or 七海瑞希.
 
-Thanks to visit my Github profile page.
+Thanks for visiting my Github profile page.
 
 I'm Yunsu Noh, sophomore at Kwangwoon University. I just started learning programming languages, so I would appreciate it if you could give me any advice for me.
 
