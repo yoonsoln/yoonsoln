@@ -16,8 +16,8 @@ I'm Yunsu Noh, a sophomore at Kwangwoon University. I just started learning prog
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonsoln&layout=compact&theme=rose_pine&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔭 I’m currently working on
- - [**KSOP**](http://outreach.kaist.ac.kr/) Operational Mentor (Mar 2021 ~ )
- - [**KSOP**](http://outreach.kaist.ac.kr/) Mentee (Jul 2015 ~ Feb 2021)
+ - [**KSOP**](http://outreach.kaist.ac.kr/) Operational Mentor (Mar 2021 - )
+ - [**KSOP**](http://outreach.kaist.ac.kr/) Mentee (Jul 2015 - Feb 2021)
 
 ### 🌱 I’m currently learning
  - Languages: Modern C++, Java
