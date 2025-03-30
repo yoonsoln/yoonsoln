@@ -4,7 +4,7 @@
 
 Thanks for visiting my Github profile page.
 
-I'm Yunsu Noh, sophomore at Kwangwoon University. I just started learning programming languages, so I would appreciate it if you could give me any advice for me.
+I'm Yunsu Noh, a sophomore at Kwangwoon University. I just started learning programming languages, so I would appreciate any advice.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonsoln)](https://github.com/yoonsoln)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:02.yunsu.noh@gmail.com)](mailto:02.yunsu.noh@gmail.com)
