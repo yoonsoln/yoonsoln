@@ -1,8 +1,6 @@
 ## ***Hello, Happy world!***
 
 ### Yunsu Noh: a.k.a. @yoonsoln or 七海瑞希.
-@KNET-KWU Amatueur Developer,
-KWU Division of Robotics  (2021. 03 ~), JS++ (2018. 03. ~ 2021. 02.)
 
 
 Thanks for visiting my Github profile page.
