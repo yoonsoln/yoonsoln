@@ -20,7 +20,7 @@ I'm Yunsu Noh, a sophomore at Kwangwoon University. I just started learning prog
 
 ### 🔭 I’m currently working on
  - [**KSOP**](http://outreach.kaist.ac.kr/) Operational Mentor (Mar 2021 - )
- - @KNET-KWU Amatueur Developer (Mar 2022 - )
+ - [**KNET**](https://github.com/KNET-KWU) Amatueur Developer (Mar 2022 - )
 <!-- - [**KSOP**](http://outreach.kaist.ac.kr/) Mentee (Jul 2015 - Feb 2021) -->
 <!-- KWU Division of Robotics, JS++ (2018. 03. ~ 2021. 02.) -->
 
