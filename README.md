@@ -1,6 +1,6 @@
 ## ***Hello, Happy world!***
 
-### Yunsu Noh: a.k.a. @yoonsoln or 七海瑞希.
+### Yunsu Noh: a.k.a. @yoonsoln.
 
 
 Thanks for visiting my Github profile page.
@@ -20,12 +20,13 @@ I'm Yunsu Noh, a sophomore at Kwangwoon University. I just started learning prog
 
 ### 🔭 I’m currently working on
  - [**KSOP**](http://outreach.kaist.ac.kr/) Operational Mentor (Mar 2021 - )
+ - @KNET-KWU Amatueur Developer (Mar 2022 - )
 <!-- - [**KSOP**](http://outreach.kaist.ac.kr/) Mentee (Jul 2015 - Feb 2021) -->
-<!-- @KNET-KWU Amatueur Developer, KWU Division of Robotics  (2021. 03 ~), JS++ (2018. 03. ~ 2021. 02.) -->
+<!-- KWU Division of Robotics, JS++ (2018. 03. ~ 2021. 02.) -->
 
 ### 🌱 I’m currently learning
  - Languages: Modern C++, Java, Python ...
- - Topics: Robotics(Teleoperation device, Humanoid, ...), Server maintenance, Web services
+ - Topics: Robotics(Teleoperation device, Humanoid, ...), Server maintenance, Web services.
 
  
 ![yoonsoln's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yoonsoln)
