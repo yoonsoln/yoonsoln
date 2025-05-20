@@ -24,9 +24,9 @@ I'm Yunsu Noh, a sophomore at Kwangwoon University. I just started learning prog
 <!-- - [**KSOP**](http://outreach.kaist.ac.kr/) Mentee (Jul 2015 - Feb 2021) -->
 <!-- KWU Division of Robotics, JS++ (2018. 03. ~ 2021. 02.) -->
 
-### 🌱 I’m currently learning
+### 🌱 I’m currently interested in
  - Languages: Modern C++, Java, Python ...
- - Topics: Robotics(Teleoperation device, Humanoid, ...), Server maintenance, Web services.
+ - Topics: Robotics (Teleoperation device, Humanoid, ...), Server maintenance, Web services.
 
  
 ![yoonsoln's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=yoonsoln)
